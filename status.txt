@@ -1,0 +1,1 @@
+{status: 'warning', description: 'There may be some issues with scanning from time to time, check twitter for updates'}
