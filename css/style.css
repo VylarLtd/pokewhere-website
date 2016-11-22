@@ -271,6 +271,11 @@ img {
     background-image: url(../images/download_bg.jpg);
     box-shadow: inset 0 0 0 100px rgba(27, 182, 251, 0.69);
 }
+.bg-color-main-two {
+    background-size: cover;
+    background-image: url(../images/download_bg_two.jpg);
+    box-shadow: inset 0 0 0 100px rgba(238, 28, 27, 0.69);
+}
 @media (max-width: 767px) {
 
 #download h2 { margin: 0; }
